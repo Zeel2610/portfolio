@@ -17,7 +17,7 @@ A modern responsive developer portfolio website built using HTML, CSS and JavaSc
 - Font Awesome
 
 ## Live Website
-Comming Soon
+https://github.com/Zeel2610/portfolio
 
 ## Author
 Zeel Panchal
